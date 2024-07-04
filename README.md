@@ -1,4 +1,4 @@
-## ** Data Analysis Portfolio **
+# **Data Analysis Portfolio**
 
 ## About Me
 
@@ -9,18 +9,24 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 
 ## Skills
 
-Programming Languages: Python, SQL
-Data Visualization: Tableau, Matplotlib, Seaborn
-Data Manipulation: Pandas, NumPy
-Tools: Excel, Jupyter Notebooks
+**Programming Languages**: Python, SQL
+
+**Data Visualization**: Tableau, Matplotlib, Seaborn
+
+**Data Manipulation**: Pandas, NumPy
+
+**Tools**: Excel, Jupyter Notebooks
 
 
 
 ## Contact Information
 
 Name: Bhupesh Chahar
+
 Email: bhupesh.chahar@gmail.com	
+
 LinkedIn: https://www.linkedin.com/in/bhupesh-chahar/
+
 Portfolio Website: https://bhupesh-oo7.github.io/portfolio-projects/
 
 Feel free to reach out if you have any questions or would like to discuss potential collaborations!
